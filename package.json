@@ -1,0 +1,16 @@
+{
+  "name": "read_write_csv_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev.xcheko51x",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.10",
+    "nodemon": "^3.1.4"
+  }
+}
